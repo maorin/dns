@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/miekg/dns.svg?branch=master)](https://travis-ci.org/miekg/dns)
 [![Code Coverage](https://img.shields.io/codecov/c/github/miekg/dns/master.svg)](https://codecov.io/github/miekg/dns?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/dns)](https://goreportcard.com/report/miekg/dns)
-[![](https://godoc.org/github.com/miekg/dns?status.svg)](https://godoc.org/github.com/miekg/dns)
+[![Go Report Card](https://goreportcard.com/badge/github.com/maorin/dns)](https://goreportcard.com/report/miekg/dns)
+[![](https://godoc.org/github.com/maorin/dns?status.svg)](https://godoc.org/github.com/maorin/dns)
 
 # Alternative (more granular) approach to a DNS library
 
@@ -97,13 +97,13 @@ DNS Authors 2012-
 This library uses Go modules and uses semantic versioning. Building is done with the `go` tool, so
 the following should work:
 
-    go get github.com/miekg/dns
-    go build github.com/miekg/dns
+    go get github.com/maorin/dns
+    go build github.com/maorin/dns
 
 ## Examples
 
 A short "how to use the API" is at the beginning of doc.go (this also will show when you call `godoc
-github.com/miekg/dns`).
+github.com/maorin/dns`).
 
 Example programs can be found in the `github.com/miekg/exdns` repository.
 
